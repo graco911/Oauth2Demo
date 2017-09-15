@@ -1,0 +1,2 @@
+android.app.Application
+Oauth2Demo.Oauth2Demo

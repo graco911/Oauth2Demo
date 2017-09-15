@@ -1,0 +1,53 @@
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.dll
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.pdb
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.Oauth2Demo.apk
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.Oauth2Demo-Signed.apk
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Auth.dll
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Auth.pdb
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.csprojResolveAssemblyReference.cache
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.dll
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.pdb
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\android\bin\Oauth2Demo.Oauth2Demo.apk
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\res\layout\main.xml
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\res\values\strings.xml
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\res\drawable\icon.png
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\R.cs.flag
+c:\users\carlos alberto\documents\visual studio 2017\Projects\Oauth2Demo\Oauth2Demo\obj\Debug\uploadflags.txt
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.pdb
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.Oauth2Demo.apk
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.Oauth2Demo-Signed.apk
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PCLCrypto.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Validation.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Auth.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PCLCrypto.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Validation.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Auth.pdb
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Xamarin.Auth.dll.mdb
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.dll
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\Oauth2Demo.pdb
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\android\bin\Oauth2Demo.Oauth2Demo.apk
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\res\layout\main.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\res\values\strings.xml
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\res\drawable\icon.png
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\R.cs.flag
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\uploadflags.txt
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\bin\Debug\Oauth2Demo.dll.mdb
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\android\assets\Oauth2Demo.dll.mdb
+C:\Users\Carlos Alberto\Desktop\Oauth2Demo\Oauth2Demo\obj\Debug\android\assets\Xamarin.Auth.dll.mdb
